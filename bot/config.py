@@ -7,5 +7,5 @@ __user__ =
 config = {
 	"VERSION": __version__,
 	"TOKEN": __token__,
-  "USER":__user__
+  	"USER":__user__
 }
